@@ -1,4 +1,4 @@
-# [GLYD Hello World (ver2)](https://github.com/jaimemendozadev/readio-v2)
+# [GLYD Hello World](https://github.com/jaimemendozadev/glyd-hello.git
 
 A simple Hello World app in React Native.
 
